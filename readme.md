@@ -9,6 +9,7 @@
 
 ## Sides
 
+- [Fish Taco Sauce](fish-taco-sauce)
 - [Grilled Sweet Potatoes](grilled-sweet-potatoes.md)
 - [Pineapple Salsa](pineapple-salsa.md)
 - [Spinach Noodle Kugel](spinach-noodle-kugel.md)
