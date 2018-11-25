@@ -15,3 +15,5 @@
 - [Spinach Noodle Kugel](spinach-noodle-kugel.md)
 
 ## Desserts
+
+- [Banana Pudding](banana-pudding.md)
