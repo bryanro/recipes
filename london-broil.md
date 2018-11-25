@@ -1,4 +1,4 @@
-# Grilled Marinated London Broil
+# London Broil
 
 ## Time
 
