@@ -1,20 +1,23 @@
 # Recipes
 
-## Meat, Poultry, Fish
+## Main Meals
 
-- [Almond Crusted Chicken](almond-crusted-chicken.md)
-- [Brisket](brisket.md)
-- [London Broil](london-broil.md)
-- [Quinoa Chicken Nuggets](quinoa-chicken-nuggets.md)
-- [Ramen](ramen.md)
+- [Almond Crusted Chicken](main/almond-crusted-chicken.md)
+- [Brisket](main/brisket.md)
+- [London Broil](main/london-broil.md)
+- [Quinoa Chicken Nuggets](main/quinoa-chicken-nuggets.md)
+- [Ramen](main/ramen.md)
 
 ## Sides
 
-- [Fish Taco Sauce](fish-taco-sauce.md)
-- [Grilled Sweet Potatoes](grilled-sweet-potatoes.md)
-- [Pineapple Salsa](pineapple-salsa.md)
-- [Spinach Noodle Kugel](spinach-noodle-kugel.md)
+- [Grilled Sweet Potatoes](sides/grilled-sweet-potatoes.md)
+- [Spinach Noodle Kugel](sides/spinach-noodle-kugel.md)
+
+## Sauces
+
+- [Fish Taco Sauce](sauces/fish-taco-sauce.md)
+- [Pineapple Salsa](sauces/pineapple-salsa.md)
 
 ## Desserts
 
-- [Banana Pudding](banana-pudding.md)
+- [Banana Pudding](desserts/banana-pudding.md)
