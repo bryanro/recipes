@@ -12,6 +12,7 @@
 ## Sides
 
 - [Grilled Sweet Potatoes](sides/grilled-sweet-potatoes.md)
+- [Soft Carrots](sides/soft-carrots.md)
 - [Spinach Noodle Kugel](sides/spinach-noodle-kugel.md)
 
 ## Sauces
