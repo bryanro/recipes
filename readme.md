@@ -6,6 +6,7 @@
 - [Brisket](brisket.md)
 - [London Broil](london-broil.md)
 - [Quinoa Chicken Nuggets](quinoa-chicken-nuggets.md)
+- [Ramen](ramen.md)
 
 ## Sides
 
