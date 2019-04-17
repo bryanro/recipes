@@ -18,6 +18,7 @@
 ## Sauces
 
 - [Fish Taco Sauce](sauces/fish-taco-sauce.md)
+- [Japanese White Sauce](sauces/japanese-white-sauce.md)
 - [Pineapple Salsa](sauces/pineapple-salsa.md)
 
 ## Desserts
