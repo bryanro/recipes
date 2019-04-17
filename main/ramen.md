@@ -16,6 +16,7 @@
 - 3 tbsp soy sauce
 - 1 tbsp sriracha sauce
 - 2 ramen portions (3 oz each), discard flavor packets
+- 1/3 cup cream
 
 **Toppings**
 
@@ -30,7 +31,8 @@
 2. Add the carrots and mushrooms, and simmer until they soften, about a minute, stirring frequently.
 3. Add the broth, Sriracha sauce, and soy sauce. Stir, and bring to a simmer; let it go for about five minutes.
 4. Place the Ramen noodles into the pot of simmering broth and allow to cook for approx. 2-3 minutes, or until cooked and tender.
-5. Optionally add the toppings.
+5. Turn the stove off and add the cream.
+6. Optionally add the toppings.
 
 ## Source
 
