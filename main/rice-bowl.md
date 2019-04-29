@@ -25,7 +25,7 @@
 
 ## Steps
 
-1. Cook rice and combine all ingredients.
+1. Cook rice and combine all ingredients. Rice is pressure cooker is 1 cup water for every 1 cup rice.
 
 ## Source
 
