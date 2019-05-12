@@ -25,3 +25,4 @@
 ## Desserts
 
 - [Banana Pudding](desserts/banana-pudding.md)
+- [Chocolate Chip Cake](desserts/chocolate-chip-cake.md)
