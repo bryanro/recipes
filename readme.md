@@ -13,6 +13,7 @@
 ## Sides
 
 - [Grilled Sweet Potatoes](sides/grilled-sweet-potatoes.md)
+- [Soft Cinnamon Apples](sides/soft-cinnamon-apples.md)
 - [Soft Carrots](sides/soft-carrots.md)
 - [Spinach Noodle Kugel](sides/spinach-noodle-kugel.md)
 
@@ -24,5 +25,6 @@
 
 ## Desserts
 
+- [Apple Dessert Pizza](desserts/apple-dessert-pizza.md)
 - [Banana Pudding](desserts/banana-pudding.md)
 - [Chocolate Chip Cake](desserts/chocolate-chip-cake.md)
