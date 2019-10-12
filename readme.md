@@ -6,6 +6,7 @@
 - [Brisket](main/brisket.md)
 - [London Broil](main/london-broil.md)
 - [Mushroom Soup](main/mushroom-soup.md)
+- [Pancakes](main/pancakes.md)
 - [Quinoa Chicken Nuggets](main/quinoa-chicken-nuggets.md)
 - [Ramen](main/ramen.md)
 - [Rice Bowl](main/rice-bowl.md)
