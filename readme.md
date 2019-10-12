@@ -28,4 +28,5 @@
 
 - [Apple Dessert Pizza](desserts/apple-dessert-pizza.md)
 - [Banana Pudding](desserts/banana-pudding.md)
+- [Chocolate Avocado Pudding](desserts/chocolate-avocado-pudding.md)
 - [Chocolate Chip Cake](desserts/chocolate-chip-cake.md)
