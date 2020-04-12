@@ -1,12 +1,15 @@
 # Recipes
 
+## Breakfast
+
+- [Pancakes](breakfast/pancakes.md)
+
 ## Main Meals
 
 - [Almond Crusted Chicken](main/almond-crusted-chicken.md)
 - [Brisket](main/brisket.md)
 - [London Broil](main/london-broil.md)
 - [Mushroom Soup](main/mushroom-soup.md)
-- [Pancakes](main/pancakes.md)
 - [Quinoa Chicken Nuggets](main/quinoa-chicken-nuggets.md)
 - [Ramen](main/ramen.md)
 - [Rice Bowl](main/rice-bowl.md)
@@ -15,14 +18,8 @@
 
 - [Grilled Sweet Potatoes](sides/grilled-sweet-potatoes.md)
 - [Soft Cinnamon Apples](sides/soft-cinnamon-apples.md)
-- [Soft Carrots](sides/soft-carrots.md)
 - [Spinach Noodle Kugel](sides/spinach-noodle-kugel.md)
-
-## Sauces
-
-- [Fish Taco Sauce](sauces/fish-taco-sauce.md)
-- [Japanese White Sauce](sauces/japanese-white-sauce.md)
-- [Pineapple Salsa](sauces/pineapple-salsa.md)
+- [Sweet Noodle Kugel](sides/sweet-noodle-kugel.md)
 
 ## Desserts
 
@@ -30,3 +27,18 @@
 - [Banana Pudding](desserts/banana-pudding.md)
 - [Chocolate Avocado Pudding](desserts/chocolate-avocado-pudding.md)
 - [Chocolate Chip Cake](desserts/chocolate-chip-cake.md)
+
+## Sauces
+
+- [Fish Taco Sauce](sauces/fish-taco-sauce.md)
+- [Japanese White Sauce](sauces/japanese-white-sauce.md)
+- [Pineapple Salsa](sauces/pineapple-salsa.md)
+
+## Pressure Cooker
+
+- [Eggs](pressure-cooker/hard-boiled-eggs.md)
+- [Soft Carrots](pressure-cooker/soft-carrots.md)
+
+## Passover
+
+- 
