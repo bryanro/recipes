@@ -8,13 +8,13 @@
 
 ## Ingredients
 
-- 1 1/4 cups all-purpose flour
-- 1/2 cup quick oats
+- 1 cup all-purpose flour
+- 1 cup quick oats
 - 2 tbsp sugar
 - 2 tsp baking powder
 - 1 tsp baking soda
 - 1/2 tsp salt
-- 1 1/4 cup buttermilk (milk plus 1 tbsp white vinegar)
+- 1 1/4 cup buttermilk (1 tbsp white vinegar + remainder milk)
 - 2 eggs
 - 1/4 cup salted butter melted
 
