@@ -19,6 +19,7 @@
 - [Apple Kugel](sides/apple-kugel)
 - [Grilled Sweet Potatoes](sides/grilled-sweet-potatoes.md)
 - [Latkes](sides/latkes.md)
+- [Onion Rings](sides/onion-rings.md)
 - [Soft Cinnamon Apples](sides/soft-cinnamon-apples.md)
 - [Spinach Noodle Kugel](sides/spinach-noodle-kugel.md)
 - [Sweet Noodle Kugel](sides/sweet-noodle-kugel.md)
