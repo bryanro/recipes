@@ -36,7 +36,10 @@
 
 ## Pressure Cooker
 
+[Pressure Cooker Cheat Sheet](pressure-cooker/pressure-cooker-cheat-sheet)
+
 - [Eggs](pressure-cooker/hard-boiled-eggs.md)
+- [Red Potatoes](pressure-cooker/red-potatoes.md)
 - [Soft Carrots](pressure-cooker/soft-carrots.md)
 
 ## Passover
