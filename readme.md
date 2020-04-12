@@ -41,4 +41,10 @@
 
 ## Passover
 
-- 
+### Breakfast
+
+### Main Meals
+
+### Desserts
+
+- [Chocolate Avocado Pudding](passover/desserts/chocolate-avocado-pudding.md)
