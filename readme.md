@@ -3,6 +3,7 @@
 ## Breakfast
 
 - [Pancakes](breakfast/pancakes.md)
+- [Steel Cut Oatmeal](breakfast/steel-cut-oatmeal.md)
 
 ## Main Meals
 
@@ -39,7 +40,7 @@
 
 ## Pressure Cooker
 
-[Pressure Cooker Cheat Sheet](pressure-cooker/pressure-cooker-cheat-sheet)
+[Pressure Cooker Cheat Sheet](pressure-cooker/pressure-cooker-cheat-sheet.md)
 
 - [Eggs](pressure-cooker/hard-boiled-eggs.md)
 - [Red Potatoes](pressure-cooker/red-potatoes.md)
