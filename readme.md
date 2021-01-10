@@ -8,6 +8,7 @@
 ## Main Meals
 
 - [Almond Crusted Chicken](main/almond-crusted-chicken.md)
+- [Black Beans and Rice](main/black-beans-and-rice.md)
 - [Brisket](main/brisket.md)
 - [London Broil](main/london-broil.md)
 - [Mushroom Soup](main/mushroom-soup.md)
