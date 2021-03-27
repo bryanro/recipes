@@ -60,4 +60,5 @@
 
 ### Desserts
 
+- [Banana Cookies](passover/desserts/banana-cookies.md)
 - [Chocolate Avocado Pudding](passover/desserts/chocolate-avocado-pudding.md)

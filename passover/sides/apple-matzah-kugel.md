@@ -15,7 +15,7 @@ _Recommendation: Make a double-batch_
 - 1/2 tsp salt
 - 1/2 cup sugar
 - 1/4 cup vegetable oil
-- 1tsp cinnamon
+- 1 tsp cinnamon
 - 2 apples, cubed
 
 _optional_
@@ -23,10 +23,6 @@ _optional_
 - 1/2 cup raisins 
 
 ## Steps
-
-reheat the oven to 350 degrees F (175 degrees C). Grease an 8x8 inch baking dish. Break the matzo sheets into pieces, and soak in a bowl of water until soft. Drain in a colander, mashing to squeeze the water out.
-In a separate bowl, mix together the eggs, salt, sugar, oil and cinnamon. Add the soaked matzo, and mix well. Fold in the apples and raisins. Spoon into the prepared baking dish, and spread evenly.
-Bake for 45 minutes in the preheated oven, until nicely browned and apples are tender.
 
 1. Preheat oven to 350 degrees. Grease 8 x 8 baking dish (or 9 x 13 for double-batch).
 2. Break matzah into pieces and soak in bowl of water until soft.  Drain and squeeze to get water out.
