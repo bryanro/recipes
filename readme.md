@@ -55,7 +55,7 @@
 
 ### Sides
 
-- [Apple Matzah Kugel](sides/apple-matzah-kugel.md)
+- [Apple Matzah Kugel](passover/sides/apple-matzah-kugel.md)
 - [Latkes](sides/latkes.md)
 
 ### Desserts
