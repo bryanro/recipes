@@ -39,6 +39,7 @@
 
 - [Fish Taco Sauce](sauces/fish-taco-sauce.md)
 - [Japanese White Sauce](sauces/japanese-white-sauce.md)
+- [Mayonaise](sauces/mayonaise.md)
 - [Pineapple Salsa](sauces/pineapple-salsa.md)
 
 ## Pressure Cooker
@@ -54,6 +55,10 @@
 ### Breakfast
 
 ### Main Meals
+
+### Sauces
+
+- [Mayonaise](sauces/mayonaise.md)
 
 ### Sides
 
