@@ -15,6 +15,7 @@
 - [Quinoa Chicken Nuggets](main/quinoa-chicken-nuggets.md)
 - [Ramen](main/ramen.md)
 - [Rice Bowl](main/rice-bowl.md)
+- [Sofritas](main/sofritas.md)
 
 ## Sides
 
