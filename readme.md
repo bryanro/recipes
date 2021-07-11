@@ -32,6 +32,7 @@
 - [Banana Pudding](desserts/banana-pudding.md)
 - [Chocolate Avocado Pudding](desserts/chocolate-avocado-pudding.md)
 - [Chocolate Chip Cake](desserts/chocolate-chip-cake.md)
+- [Fruit Cobbler (Healthy)](desserts/fruit-cobbler-healthy.md)
 
 ## Sauces
 
