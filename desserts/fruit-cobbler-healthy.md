@@ -2,9 +2,9 @@
 
 ## Time
 
-- Prep Time: # min
-- Cook Time: # min
-- Total Time: # min
+- Prep Time: 10 min
+- Cook Time: 40 min
+- Total Time: 50 min
 
 ## Ingredients
 
@@ -28,7 +28,7 @@
 
 ## Steps
 
-1.  Preheat oven to 350F.
+1.  Preheat oven to 350 degrees.
 2. In a large bowl, mix together blueberries, maple syrup, lemon juice, and vanilla. Then add cornstarch and toss blueberries.
 3. Spoon berries into an 8×8 inch pan, leaving juice in bowl behind.
 4. In another bowl, mix together oats, walnuts, almond flour, and salt.

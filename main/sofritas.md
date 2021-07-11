@@ -2,9 +2,9 @@
 
 ## Time
 
-- Prep Time: # min
-- Cook Time: # min
-- Total Time: # min
+- Prep Time: 15 min
+- Cook Time: 30 min
+- Total Time: 45 min
 
 ## Ingredients
 
