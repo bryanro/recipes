@@ -34,6 +34,10 @@
 4. Separate eggs and beat egg whites until stiff.
 5. Mix egg yolks, sugar, cream cheese, sour cream, and vanilla.
 6. Mix cottage cheese into noodles and then mix egg mixture into noodles.
-7. Put into 9 x 13 dish.
+7. Put into 9 x 13" dish.
 8. Make topping by melting butter and combining with cinnamon, sugar, and crumbs.  Put on top of noodle mixture.
 9. Bake at 350 degrees for about 1 hour.
+
+## Source
+
+Source: <https://www.lifeisbutadish.com/nanas-noodle-kugel/>
