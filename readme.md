@@ -57,6 +57,8 @@
 
 ### Main Meals
 
+- [Sweet Potato Gnocci](passover/main/sweet-potato-gnocci.md)
+
 ### Sauces
 
 - [Mayonaise](sauces/mayonaise.md)
