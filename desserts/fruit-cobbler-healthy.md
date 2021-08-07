@@ -23,7 +23,7 @@
 - 1 cup almond flour
 - 1/4 tsp salt
 - 1/2 cup maple syrup
-- 1/3 cup coconut oil, melted
+- 1/3 cup grape seed or sunflower oil (neutral oil)
 - 1 tsp vanilla
 
 ## Steps
